@@ -51,10 +51,12 @@ body {
 <body>
 
 <div class="sidenav">
-  <a href="#menu">Menu</a>
+  <a href="https://cs.csub.edu/~jparks/3420/djcafe/home.php">Home</a>
+  <a href="https://cs.csub.edu/~jparks/3420/djcafe/menu/menu.php">Menu</a>
   <a href="#order">Order</a>
   <a href="#clients">Clients</a>
   <a href="#staff">Staff</a>
+  <a href="#signin">Sign In</a> 
 </div>
 
 <div class="main">
